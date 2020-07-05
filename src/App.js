@@ -90,7 +90,11 @@ const Home = () => (
 const Projects = () => (
   <div className='projects'>
     <h1>Projects</h1>
-    <h2>Coming Soon...</h2>
+    <h2>WebPage</h2>
+    <a href="/facebook-reverse-engineer-nav"><h3>Facebook Navigation Bar w/ ReactJS</h3></a>
+    <h3>More coming Soon...</h3>
+    <h2>Mobile</h2>
+    <h3>Coming Soon...</h3>
   </div>
 );
 
